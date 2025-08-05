@@ -22,4 +22,5 @@ while True:
     print("Do you want to perform another calculation? (yes/no)")
     cont = input().lower()
     if cont != 'yes':
+
         break
